@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D8FC6240-2213-4436-93F0-049FAF3BF0B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsSampleApp/MainPage.cs">
+    <Files>
+      <File FileName="XamarinFormsSampleApp/MainPage.xaml" Line="4" Column="77" />
+      <File FileName="XamarinFormsSampleApp/SecondPage.xaml" Line="8" Column="1" />
+      <File FileName="XamarinFormsSampleApp/SecondPage.xaml.cs" Line="10" Column="10" />
+      <File FileName="XamarinFormsSampleApp/MainPage.cs" Line="21" Column="10" />
+      <File FileName="XamarinFormsSampleApp/App.xaml.cs" Line="12" Column="13" />
+      <File FileName="XamarinFormsSampleApp/obj/Debug/XamarinFormsSampleApp.MainPage.xaml.g.cs" Line="21" Column="10" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamarinFormsSampleApp/App.xaml" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsSampleApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9DBD433A-9D4B-4ACB-8BD7-B973E97D3F6E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.XamarinFormsSampleApp.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
