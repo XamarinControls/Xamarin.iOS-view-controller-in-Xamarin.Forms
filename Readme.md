@@ -1,5 +1,5 @@
 # Xamarin.iOS view controller in Xamarin.Forms app
-Example of adding view controller to existing Xamarin.Forms application. Project related to blog post <a href="http://krystianczaplicki.com/mobile/xamarin-ios-view…amarin-forms-app/">Xamarin.iOS view controller in Xamarin.Forms app</a> on <a href="http://krystianczaplicki.com">krystianczaplicki.com</a>. Works on iOS 11.2.
+Example of adding view controller to existing Xamarin.Forms application. Project related to blog post <a href="http://krystianczaplicki.com/mobile/xamarin-ios-view-controller-in-xamarin-forms-app/">Xamarin.iOS view controller in Xamarin.Forms app</a> on <a href="http://krystianczaplicki.com">krystianczaplicki.com</a>. Works on iOS 11.2.
 
 ## Screens
 <div style="text-align: center;">
